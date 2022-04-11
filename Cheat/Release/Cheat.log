@@ -1,0 +1,54 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  UE4.cpp
+  cheat.cpp
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(286,20): warning C4099: 'APlayerState': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(256): message : see declaration of 'APlayerState'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(377,16): warning C4101: 'ReturnValue': unreferenced local variable
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(214,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(518,84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(518,56): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(573,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(573,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(634,84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(634,56): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(660,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(660,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(749,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(785,83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(638,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(640,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(642,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(644,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(646,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(648,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(671,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(673,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(675,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(677,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(679,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(697,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(699,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(701,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(703,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(705,45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(776,29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(780,29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(786,29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\cheat.cpp(1345,5): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(286,20): warning C4099: 'APlayerState': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(256): message : see declaration of 'APlayerState'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(377,16): warning C4101: 'ReturnValue': unreferenced local variable
+  SDK.cpp
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(286,20): warning C4099: 'APlayerState': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(256): message : see declaration of 'APlayerState'
+C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\Cheat\SDK.h(377,16): warning C4101: 'ReturnValue': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1746 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cheat.vcxproj -> C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\bin\Release\Cheat.dll

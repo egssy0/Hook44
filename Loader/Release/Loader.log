@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Loader.vcxproj -> C:\Users\Mike\Documents\Hook Repaste 44\Hook Repaste 44\bin\Release\Loader.exe
